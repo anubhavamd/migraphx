@@ -728,12 +728,12 @@ flowchart LR
     Use-the-ROCm-build-tool-->Installing-the-prerequisites
     Use-the-ROCm-build-tool-->Building-MIGraphX-source-and-install-libs
     
-    click MIGraphX-Sources href "https://github.com/anubhavamd/migraphx_userguide/edit/main/anubhav_migraphx_exp.md#14-building-from-source-"
-    click Use-the-ROCm-build-tool href "https://github.com/anubhavamd/migraphx_userguide/edit/main/anubhav_migraphx_exp.md#141-use-the-rocm-build-tool-rbuild-"
-    click Use-cmake href "https://github.com/anubhavamd/migraphx_userguide/edit/main/anubhav_migraphx_exp.md#142-use-cmake-to-build-migraphx-"
-    click Use-Docker href "https://github.com/anubhavamd/migraphx_userguide/edit/main/anubhav_migraphx_exp.md#143-use-docker-"
-    click Installing-the-prerequisites href "https://github.com/anubhavamd/migraphx_userguide/edit/main/anubhav_migraphx_exp.md#1-installing-the-prerequisites"
-    click Building-MIGraphX-source-and-install-libs href "https://github.com/anubhavamd/migraphx_userguide/edit/main/anubhav_migraphx_exp.md#2-building-migraphx-source-and-install-libs"
+    click MIGraphX-Sources href "https://github.com/anubhavamd/migraphx/blob/main/anubhav_migraphx_exp.md#14-building-from-source-"
+    click Use-the-ROCm-build-tool href "https://github.com/anubhavamd/migraphx/blob/main/anubhav_migraphx_exp.md#141-use-the-rocm-build-tool-rbuild-"
+    click Use-cmake href "https://github.com/anubhavamd/migraphx/blob/main/anubhav_migraphx_exp.md#142-use-cmake-to-build-migraphx-"
+    click Use-Docker href "https://github.com/anubhavamd/migraphx/blob/main/anubhav_migraphx_exp.md#143-use-docker-"
+    click Installing-the-prerequisites href "https://github.com/anubhavamd/migraphx/blob/main/anubhav_migraphx_exp.md#1-installing-the-prerequisites"
+    click Building-MIGraphX-source-and-install-libs href "https://github.com/anubhavamd/migraphx/blob/main/anubhav_migraphx_exp.md#2-building-migraphx-source-and-install-libs"
 ```
 
 There are three ways to build the MIGraphX sources.
